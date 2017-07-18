@@ -8,3 +8,12 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
+# 100 Days Of Code - Log
+
+### Day 1: July 18, 2017
+
+**Today's Progress**: Work on the project weather geolacation for http://freeCodeCamp.org.
+
+**Thoughts:** Add geolocation map.
+
+**Link to work:** [Calculator App](http://www.example.com)
