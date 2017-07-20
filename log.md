@@ -25,3 +25,13 @@
 **Thoughts:** Add openweathermap api + style.css.
 
 **Link to work:** [Calculator App](http://www.example.com)
+
+# 100 Days Of Code - Log
+
+### Day 1: July 20, 2017
+
+**Today's Progress**: Finish weather geolacation project for http://freeCodeCamp.org.
+
+**Thoughts:** Finale local weather.
+
+**Link to work:** [Calculator App](http://www.example.com)
