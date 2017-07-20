@@ -32,6 +32,6 @@
 
 **Today's Progress**: Finish weather geolacation project for http://freeCodeCamp.org.
 
-**Thoughts:** Finale local weather.
+**Thoughts:** Finale local weather. demo: https://codepen.io/movel/project/full/AoNmNb
 
 **Link to work:** [Calculator App](http://www.example.com)
