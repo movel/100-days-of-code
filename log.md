@@ -8,7 +8,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-# 100 Days Of Code - Log
+#
 
 ### Day 2: July 18, 2017
 
@@ -18,6 +18,8 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
+#
+
 ### Day 3: July 19, 2017
 
 **Today's Progress**: Work on the project weather geolacation for http://freeCodeCamp.org.
@@ -26,7 +28,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-# 100 Days Of Code - Log
+# 
 
 ### Day 4: July 20, 2017
 
@@ -36,7 +38,7 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
-# 100 Days Of Code - Log
+# 
 
 ### Day 5: July 20, 2017
 
