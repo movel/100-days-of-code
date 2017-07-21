@@ -36,6 +36,8 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
+# 100 Days Of Code - Log
+
 ### Day 5: July 20, 2017
 
 **Today's Progress**: Fix bugs in view temp. Start a Wiki Viewer.
