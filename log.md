@@ -1,10 +1,45 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 17, 2017
+### Day 1: July 17, 2017
 
-**Today's Progress**: Start work on the project weather geolacation for http://freeCodeCamp.
+**Today's Progress**: Start work on the project weather geolacation for http://freeCodeCamp.org.
 
 **Thoughts:** Familiarization with examples of work of a holography in the browser
 
 **Link to work:** [Calculator App](http://www.example.com)
 
+# 100 Days Of Code - Log
+
+### Day 2: July 18, 2017
+
+**Today's Progress**: Work on the project weather geolacation for http://freeCodeCamp.org.
+
+**Thoughts:** Add geolocation map.
+
+**Link to work:** [Calculator App](http://www.example.com)
+
+### Day 3: July 19, 2017
+
+**Today's Progress**: Work on the project weather geolacation for http://freeCodeCamp.org.
+
+**Thoughts:** Add openweathermap api + style.css.
+
+**Link to work:** [Calculator App](http://www.example.com)
+
+# 100 Days Of Code - Log
+
+### Day 4: July 20, 2017
+
+**Today's Progress**: Finish weather geolacation project for http://freeCodeCamp.org.
+
+**Thoughts:** Finale local weather. demo: https://codepen.io/movel/project/full/AoNmNb
+
+**Link to work:** [Calculator App](http://www.example.com)
+
+### Day 5: July 20, 2017
+
+**Today's Progress**: Fix bugs in view temp. Start a Wiki Viewer.
+
+**Thoughts:** Finale local weather. demo #1: https://codepen.io/movel/project/full/AoNmNb.
+
+**Link to work:** [Calculator App](http://www.example.com)
