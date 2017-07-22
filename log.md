@@ -40,10 +40,20 @@
 
 # 
 
-### Day 5: July 20, 2017
+### Day 5: July 21, 2017
 
 **Today's Progress**: Fix bugs in view temp. Start a Wiki Viewer.
 
 **Thoughts:** Finale local weather. demo #1: https://codepen.io/movel/project/full/AoNmNb.
+
+**Link to work:** [Calculator App](http://www.example.com)
+
+# 
+
+### Day 6: July 22, 2017
+
+**Today's Progress**: Start work on the project a Wiki Viewer.
+
+**Thoughts:** 
 
 **Link to work:** [Calculator App](http://www.example.com)
