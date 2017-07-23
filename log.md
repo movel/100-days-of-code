@@ -60,7 +60,7 @@
 
 #
 
-### Day 2: July 18, 2017
+### Day 7: July 23, 2017
 
 **Today's Progress**: Work on the project Wiki Viewer for http://freeCodeCamp.org.
 
