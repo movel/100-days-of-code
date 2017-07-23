@@ -57,3 +57,14 @@
 **Thoughts:** 
 
 **Link to work:** [Calculator App](http://www.example.com)
+
+#
+
+### Day 2: July 18, 2017
+
+**Today's Progress**: Work on the project Wiki Viewer for http://freeCodeCamp.org.
+
+**Thoughts:** Add fetch reqest.
+
+**Link to work:** [Calculator App](http://www.example.com)
+
