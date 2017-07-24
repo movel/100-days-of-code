@@ -68,3 +68,12 @@
 
 **Link to work:** [Calculator App](http://www.example.com)
 
+#
+
+### Day 8: July 24, 2017
+
+**Today's Progress**: Work on the project Wiki Viewer for http://freeCodeCamp.org.
+
+**Thoughts:** Update app.js file.
+
+**Link to work:** [Calculator App](http://www.example.com)
