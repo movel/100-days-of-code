@@ -97,3 +97,13 @@
 **Thoughts:** Finish Wikipedia Viewer !!! :-)
 
 **Link to work:** [WikiViewer]( https://preview.c9users.io/movel/wikiview/index.html )
+
+#
+
+### Day 11: July 27, 2017
+
+**Today's Progress**: Work on the project twitch.tv for http://freeCodeCamp.org.
+
+**Thoughts:** Update app.js file.
+
+**Link to work:** [Twitch.tv]( https://preview.c9users.io/movel/twitchtv/index.html )
