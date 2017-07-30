@@ -127,3 +127,13 @@
 **Thoughts:** Update app.js file.
 
 **Link to work:** [Twitch.tv]( https://preview.c9users.io/movel/twitchtv/index.html )
+
+#
+
+### Day 14: July 30, 2017
+
+**Today's Progress**: Work on the project twitch.tv for http://freeCodeCamp.org.
+
+**Thoughts:** Update style.css, app.js, index.html file.
+
+**Link to work:** [Twitch.tv]( https://preview.c9users.io/movel/twitchtv/index.html )
