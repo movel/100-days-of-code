@@ -147,3 +147,13 @@
 **Thoughts:** Update app.js, add working with DOM-objects.
 
 **Link to work:** [Twitch.tv]( https://preview.c9users.io/movel/twitchtv/index.html )
+
+#
+
+### Day 16: August 1, 2017
+
+**Today's Progress**: Work on the project twitch.tv for http://freeCodeCamp.org.
+
+**Thoughts:** Project finished.
+
+**Link to work:** [Twitch.tv]( https://preview.c9users.io/movel/twitchtv/index.html )
