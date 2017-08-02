@@ -157,3 +157,13 @@
 **Thoughts:** Project finished.
 
 **Link to work:** [Twitch.tv]( https://preview.c9users.io/movel/twitchtv/index.html )
+
+#
+
+### Day 17: August 2, 2017
+
+**Today's Progress**: Optimise on the project twitch.tv for http://freeCodeCamp.org.
+
+**Thoughts:** Project finished.
+
+**Link to work:** [Twitch.tv]( https://preview.c9users.io/movel/twitchtv/index.html )
