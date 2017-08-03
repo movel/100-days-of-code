@@ -167,3 +167,14 @@
 **Thoughts:** Project finished.
 
 **Link to work:** [Twitch.tv]( https://preview.c9users.io/movel/twitchtv/index.html )
+
+#
+
+### Day 18: August 3, 2017
+
+**Today's Progress**: #freeCodeCamp Algorithm: Diff Two Arrays
+
+**Thoughts:** ...
+
+**Link to work:** [Twitch.tv]( https://preview.c9users.io/movel/twitchtv/index.html )
+
