@@ -197,3 +197,13 @@
 **Thoughts:** Basic Code Solution.
 
 **Link to work:** [freeCodeCamp.org]( http://freeCodeCamp.org )
+
+#
+
+### Day 21: August 6, 2017
+
+**Today's Progress**: #freeCodeCamp Algorithm: Basic Code Solution
+
+**Thoughts:** Basic Code Solution.
+
+**Link to work:** [freeCodeCamp.org]( http://freeCodeCamp.org )
