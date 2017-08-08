@@ -218,3 +218,12 @@
 
 **Link to work:** [freeCodeCamp.org]( http://freeCodeCamp.org )
 
+#
+
+### Day 23: August 8, 2017
+
+**Today's Progress**: #freeCodeCamp Intermediate Algorithm Scripting is Completed!!!
+
+**Thoughts:** Basic Code Solution.
+
+**Link to work:** [freeCodeCamp.org]( http://freeCodeCamp.org )
