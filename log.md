@@ -224,6 +224,6 @@
 
 **Today's Progress**: #freeCodeCamp Intermediate Algorithm Scripting is Completed!!!
 
-**Thoughts:** Basic Code Solution.
+**Thoughts:** Intermediate Algorithm Scripting.
 
 **Link to work:** [freeCodeCamp.org]( http://freeCodeCamp.org )
