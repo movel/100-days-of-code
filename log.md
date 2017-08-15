@@ -257,3 +257,13 @@
 **Thoughts:** Advanced Algorithm Scripting.
 
 **Link to work:** [freeCodeCamp.org]( http://freeCodeCamp.org )
+
+#
+
+### Day 27: August 15, 2017
+
+**Today's Progress**: #freeCodeCamp Advanced Algorithm Scripting !!!
+
+**Thoughts:** Advanced Algorithm Scripting.
+
+**Link to work:** [freeCodeCamp.org]( http://freeCodeCamp.org )
