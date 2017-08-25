@@ -288,3 +288,13 @@
 
 **Link to work:** [freeCodeCamp.org]( http://freeCodeCamp.org )
 
+#
+
+### Day 30: August 25, 2017
+
+**Today's Progress**: I finished #freeCodeCamp Advanced Algorithm Scripting !!!
+
+**Thoughts:** Advanced Algorithm Scripting finished.
+
+**Link to work:** [freeCodeCamp.org]( http://freeCodeCamp.org )
+
