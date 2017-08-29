@@ -328,4 +328,13 @@
 
 **Link to work:** [freeCodeCamp.org]( http://freeCodeCamp.org )
 
+#
+
+### Day 34: August 29, 2017
+
+**Today's Progress**: #freeCodeCamp a JavaScript Calculator.
+
+**Thoughts:** a JavaScript Calculator.
+
+**Link to work:** [freeCodeCamp.org]( http://freeCodeCamp.org )
 
