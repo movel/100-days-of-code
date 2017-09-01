@@ -358,3 +358,12 @@
 
 **Link to work:** [freeCodeCamp.org]( http://freeCodeCamp.org )
 
+#
+
+### Day 37: September 1, 2017
+
+**Today's Progress**: #freeCodeCamp a JavaScript Calculator.
+
+**Thoughts:** a JavaScript Calculator.
+
+**Link to work:** [freeCodeCamp.org]( http://freeCodeCamp.org )
