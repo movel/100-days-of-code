@@ -376,6 +376,6 @@
 
 **Thoughts:** a JavaScript Calculator.
 
-**Link to work:** [freeCodeCamp.org]( http://freeCodeCamp.org )
+**Link to work:** [a JavaScript Calculator]( https://codepen.io/movel/full/rzZaEZ/ )
 
 
