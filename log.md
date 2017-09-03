@@ -378,4 +378,14 @@
 
 **Link to work:** [a JavaScript Calculator]( https://codepen.io/movel/full/rzZaEZ/ )
 
+#
+
+### Day 39: September 3, 2017
+
+**Today's Progress**: #freeCodeCamp a JavaScript Calculator.
+
+**Thoughts:** a Pomodoro Timer.
+
+**Link to work:** [a JavaScript Calculator]( https://codepen.io/movel/full/XaGrdN/ )
+
 
