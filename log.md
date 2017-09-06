@@ -386,7 +386,7 @@
 
 **Thoughts:** a Pomodoro Timer.
 
-**Link to work:** [a JavaScript Calculator]( https://codepen.io/movel/full/XaGrdN/ )
+**Link to work:** [a Pomodoro Timer]( https://codepen.io/movel/full/XaGrdN/ )
 
 #
 
@@ -396,5 +396,16 @@
 
 **Thoughts:** a Pomodoro Clock.
 
-**Link to work:** [a JavaScript Calculator]( https://codepen.io/movel/full/XaGrdN/ )
+**Link to work:** [a Pomodoro Timer]( https://codepen.io/movel/full/XaGrdN/ )
+
+#
+
+### Day 41: September 6, 2017
+
+**Today's Progress**: #freeCodeCamp a JavaScript Calculator.
+
+**Thoughts:** a Pomodoro Clock.
+
+**Link to work:** [a Pomodoro Timer]( https://codepen.io/movel/full/XaGrdN/ )
+
 
