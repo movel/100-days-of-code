@@ -408,4 +408,14 @@
 
 **Link to work:** [a Pomodoro Timer]( https://codepen.io/movel/full/XaGrdN/ )
 
+#
+
+### Day 42: September 9, 2017
+
+**Today's Progress**: #freeCodeCamp a JavaScript Calculator.
+
+**Thoughts:** a Pomodoro Clock.
+
+**Link to work:** [a Pomodoro Timer]( https://codepen.io/movel/full/XaGrdN/ )
+
 
