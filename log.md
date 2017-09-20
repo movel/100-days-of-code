@@ -382,7 +382,7 @@
 
 ### Day 39: September 3, 2017
 
-**Today's Progress**: #freeCodeCamp a JavaScript Calculator.
+**Today's Progress**: #freeCodeCamp a Pomodoro Timer.
 
 **Thoughts:** a Pomodoro Timer.
 
@@ -392,7 +392,7 @@
 
 ### Day 40: September 4, 2017
 
-**Today's Progress**: #freeCodeCamp a JavaScript Calculator.
+**Today's Progress**: #freeCodeCamp a Pomodoro Timer.
 
 **Thoughts:** a Pomodoro Clock.
 
@@ -402,7 +402,7 @@
 
 ### Day 41: September 6, 2017
 
-**Today's Progress**: #freeCodeCamp a JavaScript Calculator.
+**Today's Progress**: #freeCodeCamp a Pomodoro Timer.
 
 **Thoughts:** a Pomodoro Clock.
 
@@ -412,7 +412,7 @@
 
 ### Day 42: September 9, 2017
 
-**Today's Progress**: #freeCodeCamp a JavaScript Calculator.
+**Today's Progress**: #freeCodeCamp a Pomodoro Timer.
 
 **Thoughts:** a Pomodoro Clock.
 
@@ -422,7 +422,7 @@
 
 ### Day 43: September 16, 2017
 
-**Today's Progress**: #freeCodeCamp a JavaScript Calculator.
+**Today's Progress**: #freeCodeCamp a Pomodoro Timer.
 
 **Thoughts:** a Pomodoro Clock.
 
@@ -432,7 +432,7 @@
 
 ### Day 44: September 17, 2017
 
-**Today's Progress**: #freeCodeCamp a JavaScript Calculator.
+**Today's Progress**: #freeCodeCamp a Pomodoro Timer.
 
 **Thoughts:** a Pomodoro Clock.
 
@@ -442,7 +442,7 @@
 
 ### Day 45: September 18, 2017
 
-**Today's Progress**: #freeCodeCamp a JavaScript Calculator.
+**Today's Progress**: #freeCodeCamp a Pomodoro Timer.
 
 **Thoughts:** a Pomodoro Clock.
 
@@ -452,10 +452,18 @@
 
 ### Day 46: September 19, 2017
 
-**Today's Progress**: #freeCodeCamp a JavaScript Calculator.
+**Today's Progress**: #freeCodeCamp a Pomodoro Timer.
 
 **Thoughts:** a Pomodoro Clock.
 
 **Link to work:** [a Pomodoro Timer]( https://codepen.io/movel/full/XaGrdN/ )
 
+#
 
+### Day 47: September 20, 2017
+
+**Today's Progress**: #freeCodeCamp a Tic Tac Toe.
+
+**Thoughts:** a Tic Tac Toe.
+
+**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
