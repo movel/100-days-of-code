@@ -467,3 +467,13 @@
 **Thoughts:** a Tic Tac Toe.
 
 **Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
+
+#
+
+### Day 48: September 21, 2017
+
+**Today's Progress**: Work on #freeCodeCamp a Tic Tac Toe Project.
+
+**Thoughts:** a Tic Tac Toe.
+
+**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
