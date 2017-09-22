@@ -477,3 +477,16 @@
 **Thoughts:** a Tic Tac Toe.
 
 **Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
+
+#
+
+### Day 49: September 21, 2017
+
+**Today's Progress**: Work on #freeCodeCamp a Tic Tac Toe Project.
+
+**Thoughts:** I discovered for myself the CSS Grid Layout - powerful.
+
+**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
+
+
+
