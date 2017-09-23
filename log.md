@@ -480,7 +480,7 @@
 
 #
 
-### Day 49: September 21, 2017
+### Day 49: September 22, 2017
 
 **Today's Progress**: Work on #freeCodeCamp a Tic Tac Toe Project.
 
@@ -488,5 +488,13 @@
 
 **Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
 
+#
 
+### Day 50: September 23, 2017
+
+**Today's Progress**: Work on #freeCodeCamp a Tic Tac Toe Project.
+
+**Thoughts:** Design in action.
+
+**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
 
