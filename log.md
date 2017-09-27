@@ -507,3 +507,14 @@
 **Thoughts:** Design in action.
 
 **Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
+
+#
+
+### Day 52: September 27, 2017
+
+**Today's Progress**: Work on #freeCodeCamp a Tic Tac Toe Project.
+
+**Thoughts:** Design in action.
+
+**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
+
