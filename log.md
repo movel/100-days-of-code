@@ -547,3 +547,14 @@
 **Thoughts:** Design in action.
 
 **Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
+
+#
+
+### Day 56: November 9, 2017
+
+**Today's Progress**: #freeCodeCamp.
+
+**Thoughts:** Build Beautiful Websites!.
+
+**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
+
