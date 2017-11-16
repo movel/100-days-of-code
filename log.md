@@ -587,3 +587,13 @@
 **Thoughts:** Tic Tac Toe game unbeatable by using the minimax algorithm.
 
 **Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
+
+#
+
+### Day 60: November 16, 2017
+
+**Today's Progress**: #freeCodeCamp a Tic Tac Toe is finished !!!.
+
+**Thoughts:** Tic Tac Toe game unbeatable by using the minimax algorithm.
+
+**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
