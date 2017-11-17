@@ -597,3 +597,13 @@
 **Thoughts:** Tic Tac Toe game unbeatable by using the minimax algorithm.
 
 **Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
+
+#
+
+### Day 61: November 17, 2017
+
+**Today's Progress**: #freeCodeCamp a Simon Game.
+
+**Thoughts:** a Simon Game project is started.
+
+**Link to work:** [a SImon Game]( https://codepen.io/movel/full/QOOJMg/ )
