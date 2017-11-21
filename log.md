@@ -628,3 +628,12 @@
 
 **Link to work:** [a SImon Game]( https://codepen.io/movel/full/QOOJMg/ )
 
+#
+
+### Day 64: November 21, 2017
+
+**Today's Progress**: #freeCodeCamp a Simon Game.
+
+**Thoughts:** a Simon Game project.
+
+**Link to work:** [a SImon Game]( https://codepen.io/movel/full/QOOJMg/ )
