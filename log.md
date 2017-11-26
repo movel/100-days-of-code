@@ -637,3 +637,14 @@
 **Thoughts:** a Simon Game project.
 
 **Link to work:** [a SImon Game]( https://codepen.io/movel/full/QOOJMg/ )
+
+#
+
+### Day 65: November 26, 2017
+
+**Today's Progress**: #freeCodeCamp refactoring project.
+
+**Thoughts:** a tic tac toe project.
+
+**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
+
