@@ -648,3 +648,12 @@
 
 **Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
 
+#
+
+### Day 66: November 27, 2017
+
+**Today's Progress**: #freeCodeCamp refactoring project.
+
+**Thoughts:** a tic tac toe project.
+
+**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
