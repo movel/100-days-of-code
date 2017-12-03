@@ -680,7 +680,7 @@
 
 #
 
-### Day 68: December 3, 2017
+### Day 69: December 3, 2017
 
 **Today's Progress**: Work on test task.
 
