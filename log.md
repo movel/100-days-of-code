@@ -677,3 +677,13 @@
 **Thoughts:** a tic tac toe project.
 
 **Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
+
+#
+
+### Day 68: December 3, 2017
+
+**Today's Progress**: Work on test task.
+
+**Thoughts:**.
+
+**Link to work:** 
