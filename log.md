@@ -687,3 +687,14 @@
 **Thoughts:**.
 
 **Link to work:** 
+
+#
+
+### Day 70: December 16, 2017
+
+**Today's Progress**: #freeCodeCamp refactoring project.
+
+**Thoughts:**.
+
+**Link to work:**
+
