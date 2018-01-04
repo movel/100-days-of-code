@@ -698,3 +698,12 @@
 
 **Link to work:**
 
+#
+
+### Day 71: January 4, 2017
+
+**Today's Progress**: #freeCodeCamp refactoring project.
+
+**Thoughts:** Local Weather.
+
+**Link to work:** [Local Weather]( https://codepen.io/movel/project/full/AoNmNb/ )
