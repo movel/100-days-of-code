@@ -707,3 +707,14 @@
 **Thoughts:** Local Weather.
 
 **Link to work:** [Local Weather]( https://codepen.io/movel/project/full/AoNmNb/ )
+
+#
+
+### Day 72: January 6, 2017
+
+**Today's Progress**: #freeCodeCamp refactoring project.
+
+**Thoughts:** Local Weather.
+
+**Link to work:** [Local Weather]( https://codepen.io/movel/project/full/AoNmNb/ )
+
