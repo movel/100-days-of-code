@@ -700,7 +700,7 @@
 
 #
 
-### Day 71: January 4, 2017
+### Day 71: January 4, 2018
 
 **Today's Progress**: #freeCodeCamp refactoring project.
 
@@ -710,7 +710,7 @@
 
 #
 
-### Day 72: January 6, 2017
+### Day 72: January 6, 2018
 
 **Today's Progress**: #freeCodeCamp refactoring project.
 
@@ -718,3 +718,12 @@
 
 **Link to work:** [Local Weather]( https://codepen.io/movel/project/full/AoNmNb/ )
 
+#
+
+### Day 73: January 8, 2018
+
+**Today's Progress**: #freeCodeCamp refactoring project.
+
+**Thoughts:** a tic tac toe project.
+
+**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
