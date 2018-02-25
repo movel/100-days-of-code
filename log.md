@@ -757,3 +757,14 @@
 **Thoughts:** a tic tac toe project.
 
 **Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
+
+#
+
+### Day 77: Febrary 25, 2018
+
+**Today's Progress**: #freeCodeCamp refactoring project.
+
+**Thoughts:** a tic tac toe project.
+
+**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
+
