@@ -777,3 +777,13 @@
 **Thoughts:** a tic tac toe project.
 
 **Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
+
+#
+
+### Day 79: Febrary 27, 2018
+
+**Today's Progress**: #freeCodeCamp fix function Hint().
+
+**Thoughts:** a tic tac toe project.
+
+**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
