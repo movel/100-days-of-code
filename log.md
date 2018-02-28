@@ -746,7 +746,7 @@
 
 **Thoughts:** a tic tac toe project.
 
-**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
+**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/jYVZWW/ )
 
 #
 
@@ -756,7 +756,7 @@
 
 **Thoughts:** a tic tac toe project.
 
-**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
+**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/jYVZWW/ )
 
 #
 
@@ -766,7 +766,7 @@
 
 **Thoughts:** a tic tac toe project.
 
-**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
+**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/jYVZWW/ )
 
 #
 
@@ -776,7 +776,7 @@
 
 **Thoughts:** a tic tac toe project.
 
-**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
+**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/jYVZWW/ )
 
 #
 
@@ -786,4 +786,16 @@
 
 **Thoughts:** a tic tac toe project.
 
-**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/OxXLbz/ )
+**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/jYVZWW/ )
+
+#
+
+### Day 80: Febrary 28, 2018
+
+**Today's Progress**: #freeCodeCamp project.
+
+**Thoughts:** a tic tac toe project is ended.
+
+**Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/jYVZWW/ )
+
+
