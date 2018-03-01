@@ -798,4 +798,12 @@
 
 **Link to work:** [a Tic Tac Toe]( https://codepen.io/movel/full/jYVZWW/ )
 
+#
 
+### Day 81: March 01, 2018
+
+**Today's Progress**: #freeCodeCamp project.
+
+**Thoughts:** a Simon Game project is started.
+
+**Link to work:** [a Simon Game]( https://codepen.io/movel/full/QOOJMg/ )
