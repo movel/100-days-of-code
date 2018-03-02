@@ -807,3 +807,13 @@
 **Thoughts:** a Simon Game project is started.
 
 **Link to work:** [a Simon Game]( https://codepen.io/movel/full/QOOJMg/ )
+
+#
+
+### Day 82: March 02, 2018
+
+**Today's Progress**: #freeCodeCamp project.
+
+**Thoughts:** a Simon Game project.
+
+**Link to work:** [a Simon Game]( https://codepen.io/movel/full/QOOJMg/ )
