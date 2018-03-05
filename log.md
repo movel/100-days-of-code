@@ -837,3 +837,14 @@
 **Thoughts:** a Simon Game project.
 
 **Link to work:** [a Simon Game]( https://codepen.io/movel/full/QOOJMg/ )
+
+#
+
+### Day 85: March 05, 2018
+
+**Today's Progress**: #freeCodeCamp project.
+
+**Thoughts:** a Simon Game project.
+
+**Link to work:** [a Simon Game]( https://codepen.io/movel/full/QOOJMg/ )
+
