@@ -918,3 +918,12 @@
 
 **Link to work:** [a Simon Game]( https://codepen.io/movel/full/QOOJMg/ )
 
+#
+
+### Day 93: March 17, 2018
+
+**Today's Progress**: #freeCodeCamp project.
+
+**Thoughts:** a Simon Game project.
+
+**Link to work:** [a Simon Game]( https://codepen.io/movel/full/QOOJMg/ )
