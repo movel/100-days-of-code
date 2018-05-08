@@ -957,3 +957,16 @@
 **Thoughts:** a Simon Game project.
 
 **Link to work:** [a Simon Game]( https://codepen.io/movel/full/QOOJMg/ )
+
+#
+
+### Day 97: May 8, 2018
+
+**Today's Progress**: test issue.
+
+**Thoughts:** test issue on ReactJS.
+
+**Link to work:** [test on ReactJS]( https://movel.github.io/ )
+
+
+
